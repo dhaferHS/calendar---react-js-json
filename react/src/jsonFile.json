@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "63c5605780e91e81fd3760d2"
+  },
+  "idEmployee": "20",
+  "_typeLeave": "Autorisation",
+  "_motif": "Merci.",
+  "BeginingDate": {
+    "$date": "2023-02-04T13:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-04T23:00:00Z"
+  },
+  "DaysNumber": 3,
+  "status": "Accepted",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5605780e91e81fd3760d2"
+  },
+  "idEmployee": "20",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci.",
+  "BeginingDate": {
+    "$date": "2023-02-24"
+  },
+  "EndingDate": {
+    "$date": "2023-02-28"
+  },
+  "DaysNumber": 3,
+  "status": "Accepted",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5605780e91e81fd3760d2"
+  },
+  "idEmployee": "20",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci.",
+  "BeginingDate": {
+    "$date": "2023-02-17"
+  },
+  "EndingDate": {
+    "$date": "2023-02-19"
+  },
+  "DaysNumber": 3,
+  "status": "Accepted",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5605780e91e81fd3760d2"
+  },
+  "idEmployee": "28",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci.",
+  "BeginingDate": {
+    "$date": "2023-01-17T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-01-19T00:00:00Z"
+  },
+  "DaysNumber": 3,
+  "status": "Failed",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce38287dd04ce2dfae7e94"
+  },
+  "idEmployee": "28",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci",
+  "BeginingDate": {
+    "$date": "2023-01-26T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-01-28T00:00:00Z"
+  },
+  "DaysNumber": 3,
+  "status": "Accepted",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d8e48cf5c9bf41fe902b8d"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé Maladie",
+  "BeginingDate": {
+    "$date": "2023-02-01T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-03T00:00:00Z"
+  },
+  "DaysNumber": 3,
+  "status": "Failed",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d8e4acf5c9bf41fe902b9c"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci",
+  "BeginingDate": {
+    "$date": "2023-02-10T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-18T00:00:00Z"
+  },
+  "DaysNumber": 8,
+  "status": "Rejected",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da8325f5c9bf41fe902c19"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Absence",
+  "BeginingDate": {
+    "$date": "2023-02-01T15:20:00.123Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-01T15:20:02.806Z"
+  },
+  "DaysNumber": 1,
+  "status": "Failed",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da8874f5c9bf41fe902c8d"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci",
+  "BeginingDate": {
+    "$date": "2023-02-02T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-03T00:00:00Z"
+  },
+  "DaysNumber": 2,
+  "status": "Validating",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da8883f5c9bf41fe902c97"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé annuel",
+  "_motif": "Merci",
+  "BeginingDate": {
+    "$date": "2023-03-04T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-03-06T00:00:00Z"
+  },
+  "DaysNumber": 2,
+  "status": "Pending",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da8913f5c9bf41fe902ca5"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé Special",
+  "_special_leave": "Congés exceptionnels pour raison de famille ",
+  "_event": "décés du conjoint",
+  "BeginingDate": {
+    "$date": "2023-02-14T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-02-15T00:00:00Z"
+  },
+  "DaysNumber": 2,
+  "status": "Unjustified",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da8939f5c9bf41fe902caf"
+  },
+  "idEmployee": "75",
+  "_typeLeave": "Congé annuel",
+  "_motif": "MERCI",
+  "BeginingDate": {
+    "$date": "2023-04-08T00:00:00Z"
+  },
+  "EndingDate": {
+    "$date": "2023-04-22T00:00:00Z"
+  },
+  "DaysNumber": 13,
+  "status": "Pending",
+  "__v": 0
+}]
